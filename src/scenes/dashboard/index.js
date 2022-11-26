@@ -3,10 +3,12 @@ import Header from '../../components/Header'
 
 const Dashboard = () => {
   return (
-    <Header
-      title={'DASHBOARD'}
-      subtitle={'Welcome to your dashboard'}
-    />
+    <>
+      <Header
+        title={'DASHBOARD'}
+        subtitle={'Welcome to your dashboard'}
+      />
+    </>
   )
 }
 
