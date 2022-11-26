@@ -1,5 +1,4 @@
-import * as React from 'react'
-import { useContext } from 'react'
+import React, { useContext } from 'react'
 
 import { ColorModeContext, tokens } from '../../theme'
 import { Box, InputBase, IconButton, useTheme } from '@mui/material'
